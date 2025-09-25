@@ -479,13 +479,56 @@ body {
     color: #bdc3c7;
 }
 
+.dark-theme .section-title {
+    color: #ecf0f1;
+}
+
+.dark-theme .company {
+    color: #ecf0f1;
+}
+
+.dark-theme .position {
+    color: #3498db;
+}
+
+.dark-theme .date {
+    color: #bdc3c7;
+}
+
+.dark-theme .job li {
+    color: #ecf0f1;
+}
+
+.dark-theme .school {
+    color: #ecf0f1;
+}
+
+.dark-theme .degree {
+    color: #3498db;
+}
+
+.dark-theme .summary p {
+    color: #ecf0f1;
+}
+
+.dark-theme .project {
+    color: #ecf0f1;
+}
+
+.dark-theme .contact-item {
+    color: #ecf0f1;
+}
+
+.dark-theme .rodo h3 {
+    color: #ecf0f1;
+}
+
 hr {
     border: none;
     border-top: 1px solid #bdc3c7;
     margin: 30px 0;
 }
 
-/* Responsive design */
 @media (max-width: 768px) {
     .content {
         flex-direction: column;
